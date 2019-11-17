@@ -1,0 +1,5 @@
+{
+  "snakeai/tests/test_environment.py": true,
+  "snakeai/tests/test_field.py": true,
+  "snakeai/tests/test_snake.py": true
+}

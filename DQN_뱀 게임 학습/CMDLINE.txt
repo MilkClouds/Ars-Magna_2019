@@ -1,0 +1,2 @@
+python3 play.py --agent dqn --model dqn-final.model --level snakeai/levels/10x10-blank.json
+python3 play.py --agent human --model dqn-final.model --level snakeai/levels/10x10-blank.json
